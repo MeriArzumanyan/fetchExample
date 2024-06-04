@@ -1,0 +1,10 @@
+.post{
+    padding: 10px;
+    
+}
+a{ color: black;
+    text-decoration: none;
+}
+a:visited{
+    color: black;
+}
